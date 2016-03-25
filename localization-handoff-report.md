@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e5a2d47f5fb96591929145bd6895eadc642136f1/dsc/Test1/SonjaTest.md) | HandedOffSuccess | [Details](#27daeca973361d35caa48d668078a0ef7f64353654)
 
 ## Item Details
-##### <a name='27daeca973361d35caa48d668078a0ef7f64353654'></a> Source: [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e5a2d47f5fb96591929145bd6895eadc642136f1/dsc/Test1/SonjaTest.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0095c0ac55a16076da15488ac319a4265fb8adcb/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ko-kr/master/SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.ko-kr.xlf)
-* Handoff Datetime: 2016-03-25 00:00:59
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
