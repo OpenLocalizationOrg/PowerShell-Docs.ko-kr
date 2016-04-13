@@ -1,19 +1,33 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d5ec439356d12304ceb6b2b3257885aa2cc461b7/dsc/partialConfigs.md) | HandedOffSuccess | [Details](#4d60df7ffda430acb6b5a48baf09cfa0dc9fc2b840)
+ [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png) | HandedOffSuccess | [Details](#a20dd5927999cbb3c1125bd4ff8944954abc84a923)
+ [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/partialConfigs.md) | HandedOffSuccess | [Details](#da410bf1b10ae360fda5734aecb19f33331aea4741)
 
 ## Item Details
-##### <a name='4d60df7ffda430acb6b5a48baf09cfa0dc9fc2b840'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d5ec439356d12304ceb6b2b3257885aa2cc461b7/dsc/partialConfigs.md)
+##### <a name='a20dd5927999cbb3c1125bd4ff8944954abc84a923'></a> Source: [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/32e6e914c3de32772f6b7b9da016c80bba5278f0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ko-kr/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.ko-kr.xlf)
-* Handoff Datetime: 2016-04-13 18:39:14
+* Handoff File: [a20dd5927999cbb3c1125bd4ff8944954abc84a9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/c4df4c928070c2428125ad50e00b4932d3fe0f96/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ko-kr/master/a20dd5927999cbb3c1125bd4ff8944954abc84a9.png)
+* Handoff Datetime: 2016-04-13 18:49:03
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: dsc\partialConfigs.md
+* [Back to Top](#report-top)
+
+##### <a name='da410bf1b10ae360fda5734aecb19f33331aea4741'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/partialConfigs.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c4df4c928070c2428125ad50e00b4932d3fe0f96/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ko-kr/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.ko-kr.xlf)
+* Handoff Datetime: 2016-04-13 18:49:03
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
